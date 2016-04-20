@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+
+.color-fire {
+	color: #eb6807;
+}
+.color-piggy {
+	color: #ffb0d8;
+}
+.color-usd {
+	color: #12bc16;
+}
+.color-folder {
+	color: #f4e15b;
+}
+.color-pencil {
+	color: #0080ff;
+}
+.color-plus-sign {
+	color: #de2525;
+}
+
+.color-flash {
+	color: #f4d31a; 
+}
+
+.ironman-icon{
+	background-image: url('../img/im2-small.png');
+}
+.ironman-icon:hover {
+	background-image: url('../img/im1-small.png');
+}
