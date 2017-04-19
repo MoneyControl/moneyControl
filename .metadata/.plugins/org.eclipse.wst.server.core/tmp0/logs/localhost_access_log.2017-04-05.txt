@@ -1,0 +1,10 @@
+127.0.0.1 - - [05/Apr/2017:21:49:12 -0300] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:13 -0300] "GET /MoneyControl/ HTTP/1.1" 404 1020
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:28 -0300] "GET /MoneyControl/ HTTP/1.1" 404 1020
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:28 -0300] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:32 -0300] "GET /MoneyControl/login HTTP/1.1" 404 1030
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:54 -0300] "GET /MoneyControl/loginServlet HTTP/1.1" 200 3096
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:54 -0300] "GET /MoneyControl/css/bootstrap.css HTTP/1.1" 200 147430
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:54 -0300] "GET /MoneyControl/js/bootstrap.min.js HTTP/1.1" 200 36816
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:54 -0300] "GET /MoneyControl/js/jquery-1.11.3.js HTTP/1.1" 200 284394
+0:0:0:0:0:0:0:1 - - [05/Apr/2017:21:49:54 -0300] "GET /MoneyControl/fonts/glyphicons-halflings-regular.woff2 HTTP/1.1" 200 18028
